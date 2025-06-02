@@ -66,4 +66,3 @@ if submitted:
         st.warning("Anda kemungkinan mengalami **Sleep Apnea**.\n\n👉 Konsultasikan ke dokter. Hindari alkohol, rokok, dan jaga berat badan ideal.")
 
     st.markdown("---")
-    st.caption("Model ini hanya untuk edukasi dan bukan diagnosis medis.")
